@@ -7,7 +7,7 @@ Working on two projects personal projects in the meantime.
 Git - Swift/SwiftUI - HTML5/CSS3 - Sass - Github - SalesForce - Sketch - Photoshop.
 
 - Degrees & Certifcates:<br>
-A. Bachloors of Computer Science 2024 (4.0 GPA & Still Going).<br>
+A. Bachelors of Computer Science 2024 (4.0 GPA & Still Going).<br>
 B. Associate of Computer Science 2022 (4.0 GPA).<br>
 C. Apple Official Swift College Class 2021 (4.0 GPA).<br>
 D. Build iOS Apps with SwiftUI From CodeCademy.<br>
