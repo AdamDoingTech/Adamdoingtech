@@ -14,6 +14,9 @@ D. Build iOS Apps with SwiftUI From CodeCademy.<br>
 E. 100DaysOfSwiftUI From PaulHudson.<br>
 F. 100DaysOfSwift From PaulHudson.<br>
 
-
-**AtomLabX/AtomLabX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Fav Anime(s)<br>
+1: Code Geass.<br> 
+2: ReLife.<br>
+3: Onigai Teacher.<br>
+4: Berserk.<br>
 
