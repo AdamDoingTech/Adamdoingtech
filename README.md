@@ -1,6 +1,6 @@
 ### Hi there 👋
 Name is Adam. -> Software Engineer & Anime Enthusiast.<br>
-Website is: <a href="AtomLabX.Dev">AtomLabX.Dev</a><br>
+Website is: <a href="https://atomlabx.github.io">AtomLabX.Dev</a><br>
 Working on two projects personal projects in the meantime.
 
 - Technolgies & Tools:<br>
