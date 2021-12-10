@@ -4,7 +4,7 @@ Website is: <a href="https://atomlabx.github.io">AtomLabX.Dev</a><br>
 Working on two projects personal projects in the meantime.
 
 - Technolgies & Tools:<br>
-Git - Swift/SwiftUI - HTML5/CSS3 - Sass - Github - SalesForce - Sketch - Photoshop.
+Git/Github - Swift/SwiftUI - HTML5/CSS3 - Sass - SalesForce.
 
 - Degrees & Certifcates:<br>
 A. Bachelors of Computer Science 2024 (4.0 GPA & Still Going).<br>
