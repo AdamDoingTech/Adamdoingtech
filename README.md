@@ -1,9 +1,9 @@
-### Hi there 👋
+### Yellow 👋
 let name = Adam.<br>
 let website = <a href="https://atomlabx.github.io">AtomLabX.Dev</a><br>
 Print("Working on two projects personal projects in the meantime.")
 
-- Technolgies & Tools:<br>
+* Tools:<br>
 XCode | SalesForce | Git/GitHub | SublimeText | Integra | AirTable | AegiSub | ETO | Final Cut Pro
 
 * Degrees & Certifcates:<br>
