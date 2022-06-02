@@ -1,7 +1,7 @@
 ### Yellow 👋
 System.out.println("Adam");<br>
 String website = "<a href="https://atomlabx.github.io">AtomLabX.Dev</a><br>";
-System.Out.Println("Working on two personal projects in the meantime.");
+System.out.println("Working on two personal projects in the meantime.");<br>
 
 * Tools:<br>
 IntelliJ IDEA| XCode | SalesForce | Git/GitHub | SublimeText | Integra | AirTable | AegiSub | Final Cut Pro
