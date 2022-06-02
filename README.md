@@ -1,10 +1,10 @@
 ### Yellow 👋
-let name = Adam.<br>
-let website = <a href="https://atomlabx.github.io">AtomLabX.Dev</a><br>
-Print("Working on two projects personal projects in the meantime.")
+System.out.println("Adam");<br>
+String website = "<a href="https://atomlabx.github.io">AtomLabX.Dev</a><br>";
+System.out.println("Working on two personal projects in the meantime.");
 
 * Tools:<br>
-XCode | SalesForce | Git/GitHub | SublimeText | Integra | AirTable | AegiSub | ETO | Final Cut Pro
+IntelliJ IDEA| XCode | SalesForce | Git/GitHub | SublimeText | Integra | AirTable | AegiSub | Final Cut Pro
 
 * Degrees & Certifcates:<br>
 A. Associate of Computer Science.<br>
