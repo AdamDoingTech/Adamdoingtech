@@ -8,7 +8,7 @@ XCode | SalesForce | Git/GitHub | SublimeText | Integra | AirTable | AegiSub | E
 
 * Degrees & Certifcates:<br>
 A. Associate of Computer Science.<br>
-B. Apple Official Swift Coillege Course class of 2021.<br>
+B. Apple Official Swift Coillege Course.<br>
 C. Build iOS Apps with SwiftUI From CodeCademy.<br>
 D. 100DaysOfSwiftUI from PaulHudson.<br>
 
