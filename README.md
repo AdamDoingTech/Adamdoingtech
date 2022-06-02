@@ -1,7 +1,7 @@
 ### Yellow 👋
 System.out.println("Adam");<br>
-String website = "<a href="https://atomlabx.github.io">AtomLabX.Dev</a><br>";
-String atTheMoment = "Working on two personal projects in the meantime.";<br>
+String website = "<a href="https://atomlabx.github.io">AtomLabX.Dev</a>";<br>
+String atTheMoment = "Working on two personal projects.";<br>
 
 * Tools:<br>
 IntelliJ IDEA | XCode | SalesForce | Git/GitHub | SublimeText | Integra | AirTable | AegiSub
