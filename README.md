@@ -1,18 +1,12 @@
 ### Yellow 👋
-System.out.println("Adam");<br>
-String website = "<a href="https://atomlabx.github.io">AtomLabX.Dev</a>";<br>
-String atTheMoment = "Working on two personal projects.";<br>
+## String name = ("Adam");<br>
+## String website = "<a href="https://atomlabx.github.io">AtomLabX.Dev</a>";<br>
+## String atTheMoment = "Working on <a href="https://atomlabx.github.io">AniWall</a>an iOS App.";<br>
 
-* Tools:<br>
-IntelliJ IDEA | XCode | SalesForce | Git/GitHub | SublimeText | Integra | AirTable | AegiSub
+# Tools & IDE's:<br>
+IntelliJ IDEA | XCode | Git/GitHub | SublimeText | AegiSub
 
-* Degrees & Certifcates:<br>
-A. Associate of Computer Science.<br>
-B. Apple Official Swift Coillege Course.<br>
-C. Build iOS Apps with SwiftUI From CodeCademy.<br>
-D. 100DaysOfSwiftUI from PaulHudson.<br>
-
-* Favorite Anime(s)<br>
+# Favorite Anime(s)<br>
 1: Code Geass.<br> 
 2: ReLife.<br>
 3: Onigai Teacher.<br>
