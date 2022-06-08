@@ -1,12 +1,9 @@
-## Yellow 👋 I'm Adam!
-  String website = "<a href="https://atomlabx.github.io">AtomLabX.Dev</a>";<br>
-  String atTheMoment = "Working on <a href="https://atomlabx.github.io">AniWall</a> an iOS App.";<br>
+# Yellow 👋 I'm Adam!
+## Favorite Anime(s)<br>
+  ReLife. | Onigai Teacher. | Berserk.<br>
 
 ## IDE's:<br>
 IntelliJ IDEA | Xcode | Sublime Text | AegiSub
-
-## Favorite Anime(s)<br>
-ReLife. | Onigai Teacher. | Berserk.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
