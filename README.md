@@ -1,6 +1,6 @@
-## Yellow 👋 I'm Adam!
+## Yellow 👋🏾 I'm Adam!
 ### Favorite Anime(s)<br>
-  ReLife. | Onigai Teacher. | Berserk.<br>
+✨ Haikyuu. | ReLife. | Onigai Teacher. | Berserk.<br>
 
 ### IDE's:<br>
 IntelliJ IDEA | Xcode | Sublime Text | AegiSub
