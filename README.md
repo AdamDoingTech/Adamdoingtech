@@ -8,8 +8,8 @@ IntelliJ IDEA | Xcode | Sublime Text | AegiSub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atomlabx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atomlabx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/atomlabx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atomlabx" height="30" width="40" /></a>
+<a href="https://twitter.com/AdamDoingTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdamDoingTech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/atomlabx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AdamDoingTech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technolgies & Tools:</h3>
