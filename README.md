@@ -1,6 +1,7 @@
 ## Yellow 👋🏾 I'm Adam!
-### Favorite Anime(s)<br>
-Violet Evergarden | Haikyuu | ReLife | Onigai Teacher | Berserk <br>
+### About Me.<br>
+A lifelong learner with experience in research, iOS development, Java and Python as well.
+
 
 ### IDE's:<br>
 IntelliJ IDEA | Xcode | Sublime Text | AegiSub
