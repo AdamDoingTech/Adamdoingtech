@@ -1,9 +1,9 @@
 ## Yellow 👋🏾 I'm Adam!
 ### About Me:<br>
-Scholar, Independent Researcher currently at [the University of Texas at Dallas](https://www.utdallas.edu),
+Scholar, Independent Researcher at [the University of Texas at Dallas](https://www.utdallas.edu),
 <br>
-Computer Science Undergraduate Student at [Boise State University](https://www.boisestate.edu).
+Computer Science Student at [Boise State University](https://www.boisestate.edu).
 
-### IDE's:<br>
-IntelliJ IDEA | Xcode | Sublime Text | PyCharm
+### Text Editor of Choice:<br>
+Sublime Text.
 
