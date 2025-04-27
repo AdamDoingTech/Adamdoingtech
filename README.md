@@ -1,6 +1,6 @@
 ## Yellow 👋🏾 I'm Adam!
 ### About Me:<br>
-Scholar, and a computer science student.
+Scholar, researcher, and a computer science student.
 <br>
 To learn more about me, go to [AdamDoing.Tech](https://www.adamdoing.tech).
 <br>
